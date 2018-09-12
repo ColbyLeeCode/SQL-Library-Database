@@ -350,12 +350,13 @@ WHERE ba.AuthorName = 'Stephen King' AND lb.BranchName = 'Central'
 GROUP BY Title HAVING COUNT(*) > 0
 GO
 
-
-
-
-
-
-
-
+/*Executing all the procedures we created*/
+EXEC [dbo].[usp_cBooksIn]
+EXEC [dbo].[usp_bookByBranch]
+EXEC [dbo].[usp_noBooks]
+EXEC [dbo].[usp_dueTodayS]
+EXEC [dbo].[usp_booksLoaned]
+EXEC [dbo].[usp_hasLots]
+EXEC [dbo].[usp_authorAtBranch]
 
 
