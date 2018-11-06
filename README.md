@@ -1,4 +1,4 @@
-# The-Tech-Academy-SQL-Coding-Projects
+# Library-Management-Database
 
 A mock library management database I developed using SQL with the following structure and schema.
 
