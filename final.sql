@@ -1,6 +1,6 @@
 /*
 *		MOCK LIBRARY MANAGEMENT SYSTEM
-*       SQL AND DATABASE FINAL       
+*               SQL AND DATABASE FINAL       
 *		By:Colby Lee                            */
 
 /*DATABASE CREATION AND POPULATION*/
